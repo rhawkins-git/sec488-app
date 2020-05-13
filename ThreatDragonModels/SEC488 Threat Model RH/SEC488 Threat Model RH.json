@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "SEC488 Threat Model RH",
+    "owner": "rhawkins",
+    "description": "Test application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Diagram Uno",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "rhawkins"
+  }
+}
